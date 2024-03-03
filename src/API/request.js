@@ -1,4 +1,4 @@
-const baseUrl = "https://animxer-api-seven.vercel.app/anime/gogoanime";
+const baseUrl = "https://consumet-api-eysu.onrender.com/anime/gogoanime";
 
 export const makeRequest = async (endpoint, config) => {
     const url = `${baseUrl}${endpoint}`;
